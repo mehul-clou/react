@@ -1,3 +1,3 @@
-# Mappind Data To Components
+# Mapping Data To Components
 
 Created with CodeSandbox
